@@ -68,7 +68,7 @@ if (empty($_SESSION["id"])) {
                 <thead>
                     <tr>
                         <th scope="col">ID</th>
-                        <th scope="col">Nombre</th>
+                        <th scope="col">SISISISIe</th>
                         <th scope="col">Apellido</th>
                         <th scope="col">Nacimiento</th>
                         <th scope="col">Email</th>
